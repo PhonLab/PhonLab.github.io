@@ -9,3 +9,5 @@ This site holds various pages that are related to software that are either used 
 * [BASWebServices](http://clarin.phonetik.uni-muenchen.de/BASWebServices/#!/services)
 
 ### Some Links to Manual Pages:
+
+Some instructions for using MAUS with the new Pan-Australian Model.
